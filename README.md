@@ -1,1 +1,1 @@
-# me encuentro realizando este proyecto para mejorar en los lenguajes JavaScript, Golang, PHP y C#.
+me encuentro realizando este proyecto para mejorar en los lenguajes JavaScript, Golang, PHP y C#.
