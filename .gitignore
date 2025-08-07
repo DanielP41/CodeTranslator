@@ -30,4 +30,7 @@ pnpm-debug.log*
 *.ntvs*
 *.njsproj
 *.sln
+ HEAD
 *.sw?
+*.sw?
+486e179 (Inicializando proyecto code-translator-vite)
