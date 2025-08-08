@@ -1,5 +1,5 @@
-TRADUCTOR DE CODIGO
+CODE TRANSLATOR
 
-Desarrollé esta herramienta para practicar y profundizar en otros lenguajes de programación que me interesan.-
+I developed this tool to practice and deepen my knowledge of other programming languages that interest me.
 
 
