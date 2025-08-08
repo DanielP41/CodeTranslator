@@ -13,7 +13,7 @@ Frontend:
   -Tailwind CSS 
 
 
-Lenguajes de Programación:
+Programming Languages:
 
   -JavaScript 
 
