@@ -24,6 +24,3 @@ Package manage:
 
   -npm 
   
-Notes:
-
-  This project is under active development.-
